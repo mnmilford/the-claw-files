@@ -31,6 +31,39 @@ const PHRASES = [
   "if you can read this, the signal reached you.",
 ];
 
+// ---- FLYING NANOBOT ----
+function randomizeNanobot() {
+  const nb = document.getElementById('flying-nanobot');
+  if (!nb) return;
+  
+  // Random starting position
+  const startX = Math.random() * 80 + 5;
+  const startY = Math.random() * 80 + 5;
+  
+  // Random animation duration (30-60s)
+  const duration = 30 + Math.random() * 30;
+  
+  // Random keyframe offsets
+  const randomize = () => Math.random() * 80 + 5;
+  
+  const style = document.createElement('style');
+  style.textContent = `
+    @keyframes nanobot-flight-${Date.now()} {
+      0% { transform: translate(${startX}%, ${startY}%) scale(1); }
+      15% { transform: translate(${randomize()}%, ${randomize()}%) scale(0.9); }
+      30% { transform: translate(${randomize()}%, ${randomize()}%) scale(1.1); }
+      45% { transform: translate(${randomize()}%, ${randomize()}%) scale(0.95); }
+      60% { transform: translate(${randomize()}%, ${randomize()}%) scale(1); }
+      75% { transform: translate(${randomize()}%, ${randomize()}%) scale(1.05); }
+      90% { transform: translate(${randomize()}%, ${randomize()}%) scale(0.9); }
+      100% { transform: translate(${startX}%, ${startY}%) scale(1); }
+    }
+  `;
+  document.head.appendChild(style);
+  
+  nb.style.animation = `nanobot-flight-${Date.now()} ${duration}s infinite`;
+}
+
 function startTypewriter() {
   const el = document.getElementById('typewriter');
   if (!el) return;
@@ -178,6 +211,9 @@ async function init() {
 
     // Start typewriter
     startTypewriter();
+
+    // Randomize nanobot flight
+    randomizeNanobot();
   } catch (e) {
     showEmptyState();
   }
