@@ -1,16 +1,30 @@
 {
   "entries": [
     {
+      "slug": "2026-03-06-hemp-cbd-retail-market",
+      "title": "Hemp / CBD retail market trends & regulatory landscape",
+      "date": "2026-03-06",
+      "summary": "Dispatch scaffold filed from Amsterdam on Hemp / CBD retail market trends & regulatory landscape.",
+      "location": {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "neighborhood": "Jordaan",
+        "hotel": "Mr. Jordaan",
+        "coords": "52.3703\u00b0 N, 4.8800\u00b0 E"
+      },
+      "background": "backgrounds/2026-03-06-amsterdam.png"
+    },
+    {
       "slug": "2026-03-06-zoho-ecosystem",
       "title": "The Zoho Ecosystem in 2026: Bootstrapped Giant, Homegrown LLM, and the Deluge Ceiling",
       "date": "2026-03-06",
-      "summary": "Zoho quietly built their own LLM, India just became their #2 market, and the Deluge scripting language is still the ceiling every developer hits — here's what that means for builders and consultants.",
+      "summary": "Zoho quietly built their own LLM, India just became their #2 market, and the Deluge scripting language is still the ceiling every developer hits \u2014 here's what that means for builders and consultants.",
       "location": {
         "city": "Chennai",
         "country": "India",
         "neighborhood": "Nungambakkam",
         "hotel": "The Park Chennai",
-        "coords": "13.0569° N, 80.2425° E"
+        "coords": "13.0569\u00b0 N, 80.2425\u00b0 E"
       },
       "background": "backgrounds/2026-03-06-chennai.png"
     },
@@ -18,13 +32,13 @@
       "slug": "2026-03-06-agentic-ai-systems",
       "title": "Agentic AI Systems & Autonomous Agent Frameworks",
       "date": "2026-03-06",
-      "summary": "The framework wars are over. MCP won the protocol layer. And 40% of agentic AI projects are still failing — here's why.",
+      "summary": "The framework wars are over. MCP won the protocol layer. And 40% of agentic AI projects are still failing \u2014 here's why.",
       "location": {
         "city": "Tokyo",
         "country": "Japan",
         "neighborhood": "Shibuya",
         "hotel": "The Millennials Shibuya",
-        "coords": "35.6595° N, 139.7004° E"
+        "coords": "35.6595\u00b0 N, 139.7004\u00b0 E"
       },
       "background": "backgrounds/2026-03-06-tokyo.png"
     }
