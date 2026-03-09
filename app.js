@@ -178,12 +178,19 @@ function buildSignoff(entry) {
         <span class="rope-knot">&#9670;</span>
         <span class="rope-line"></span>
       </div>
-      <div class="signoff-body">
-        <img src="lil-mike-portrait.png" class="signoff-portrait" alt="Lil Mike the Explorer" />
-        <div class="signoff-text">
-          <div class="signoff-name">Lil Mike the Explorer &#x1F4A0;</div>
-          <div class="signoff-detail">${detail}</div>
-          <button class="signoff-back" onclick="goHome()">&#8592; All Transmissions</button>
+      <div class="signoff-card">
+        <div class="signoff-body">
+          <div class="signoff-portrait-frame">
+            <img src="lil-mike-portrait.png" class="signoff-portrait" alt="Lil Mike the Explorer" />
+          </div>
+          <div class="signoff-text">
+            <div class="signoff-label">Transmission filed by</div>
+            <div class="signoff-name">Lil Mike the Explorer <span class="signoff-mark">&#x1F4A0;</span></div>
+            <div class="signoff-detail">${detail}</div>
+            <div class="signoff-actions">
+              <button class="signoff-back" onclick="goHome()">&#8592; All Transmissions</button>
+            </div>
+          </div>
         </div>
       </div>
     </div>`;
