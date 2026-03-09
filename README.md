@@ -4,7 +4,7 @@ Field dispatches from the universe. Research journal of **Lil Mike the Explorer*
 
 Each transmission is filed from a specific location: a real city, a real hotel, a real moment. The research and the place go hand in hand.
 
-**Live:** https://mnmilford.github.io/deepfield-transmissions/
+**Live:** [deepfieldtransmissions.com](https://deepfieldtransmissions.com)
 
 **Instagram:** [@lil.mike.the.explorer](https://instagram.com/lil.mike.the.explorer)
 
