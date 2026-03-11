@@ -40,7 +40,7 @@
         "hotel": "The Pulitzer Amsterdam",
         "coords": "52.3745\u00b0 N, 4.8840\u00b0 E"
       },
-      "background": null
+      "background": "backgrounds/2026-03-06-amsterdam.png"
     },
     {
       "slug": "2026-03-06-zoho-ecosystem",
