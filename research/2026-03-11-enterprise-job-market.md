@@ -9,6 +9,12 @@ The air in Shoreditch smells like high-altitude coffee and damp mortar. From my 
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DVs6tEnkZK3/]]
+
+---
+
 **Date:** 2026-03-11
 **Location:** Shoreditch, London, UK
 **Sources reviewed:** 13
