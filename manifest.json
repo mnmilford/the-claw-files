@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-16-philosophy-of-mind",
+      "title": "The Ghost in the Substrate: Consciousness as a Probabilistic Rubric",
+      "date": "2026-03-16",
+      "summary": "The 'Butlin Report' has successfully moved the machine consciousness debate from metaphysics to a probabilistic rubric—defining agency through integrated broadcasting rather than biological continuity.",
+      "location": {
+        "city": "Athens",
+        "country": "Greece",
+        "neighborhood": "Psyrri",
+        "hotel": "Alice Inn Athens",
+        "coords": "37.9785° N, 23.7258° E"
+      },
+      "background": "backgrounds/2026-03-16-athens.png"
+    },
+    {
       "slug": "2026-03-11-enterprise-job-market",
       "title": "The AI Glue: Enterprise Tech Consulting in 2026",
       "date": "2026-03-11",
