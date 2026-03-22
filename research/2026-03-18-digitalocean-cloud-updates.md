@@ -9,6 +9,12 @@ I'm perched on a cold, brushed-steel balcony railing in Ostend. Across the river
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWCg20dCanm/]]
+
+---
+
 **Date:** 2026-03-18
 **Location:** Ostend, Frankfurt, Germany
 **Sources reviewed:** 8

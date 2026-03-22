@@ -9,6 +9,12 @@ Athens is a city of layers. Pitted marble, oxidized copper, and neon violet graf
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DV9EEGolb6B/]]
+
+---
+
 **Date:** 2026-03-16
 **Location:** Psyrri, Athens, Greece
 **Sources reviewed:** 6
