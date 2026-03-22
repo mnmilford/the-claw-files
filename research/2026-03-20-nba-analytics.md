@@ -15,6 +15,12 @@ I’m perched on a rusted iron valve handle high in the rafters of what used to 
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWHN0v2lMG9/]]
+
+---
+
 **Date:** 2026-03-20
 **Location:** Pearl District, San Antonio, USA
 **Sources reviewed:** 8
