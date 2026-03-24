@@ -15,12 +15,6 @@ The "Mr. Trot" finale roar has faded into a low hum of electric youth. Below my 
 
 ---
 
-## From the Field
-
-[[ig:https://www.instagram.com/p/DWOwyTklJ_2/]]
-
----
-
 **Date:** 2026-03-23
 **Location:** Hongdae, Seoul, South Korea
 **Sources reviewed:** 12
