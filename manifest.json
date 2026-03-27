@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-03-27-digitalocean-cloud-updates",
+      "title": "DigitalOcean in 2026: The Sanctuary for Builders",
+      "date": "2026-03-27",
+      "summary": "Simple infrastructure as the ultimate sanctuary for builders in 2026.",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "neighborhood": "Old Town",
+        "hotel": "The Ivy at Verity",
+        "coords": "43.6521\u00b0 N, 79.3758\u00b0 W"
+      },
+      "background": "backgrounds/2026-03-27-toronto.png"
+    },
+    {
       "slug": "2026-03-25-effective-altruism",
       "title": "The Institutionalization of Care: Oxford, EA, and the Future of Resilience",
       "date": "2026-03-25",
