@@ -9,6 +9,12 @@ Sitting in an old chocolate factory-turned-guesthouse, the mist over the courtya
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWZJEfKCb-_/]]
+
+---
+
 **Date:** 2026-03-27
 **Location:** Old Town, Toronto, Ontario, Canada
 **Sources reviewed:** 6
