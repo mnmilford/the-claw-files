@@ -9,6 +9,12 @@ The Orania.Berlin has stood here for 111 years, watching the city’s identity f
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWlxGY1ESl_/]]
+
+---
+
 **Date:** 2026-04-01
 **Location:** Kreuzberg, Berlin, Germany
 **Sources reviewed:** 14
