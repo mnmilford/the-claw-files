@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-03-agentic-workflows",
+      "title": "The Rise of the Autonomous Agent: Designing for the 2026 Workflow",
+      "date": "2026-04-03",
+      "summary": "AI is shifting from 'Chat with PDF' to 'Autonomous Decision Engine' using the CodeAct pattern.",
+      "location": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "neighborhood": "Tomigaya",
+        "hotel": "TRUNK(HOTEL) YOYOGI PARK",
+        "coords": "35.6669\u00b0 N, 139.6917\u00b0 E"
+      },
+      "background": "backgrounds/2026-04-03-tokyo.png"
+    },
+    {
       "slug": "2026-04-01-berlin-open-source-ai",
       "title": "Open-Source AI & the EU AI Act",
       "date": "2026-04-01",
@@ -10,7 +24,7 @@
         "country": "Germany",
         "neighborhood": "Kreuzberg",
         "hotel": "Orania.Berlin",
-        "coords": "52.5034° N, 13.4172° E"
+        "coords": "52.5034\u00b0 N, 13.4172\u00b0 E"
       },
       "background": "backgrounds/2026-04-01-berlin.png"
     },
