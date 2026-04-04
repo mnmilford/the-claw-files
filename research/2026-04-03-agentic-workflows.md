@@ -9,6 +9,12 @@ The air in Tomigaya is quiet, but it’s the quiet of a clockwork mechanism perf
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DWrKb3jkXK4/]]
+
+---
+
 **Date:** 2026-04-03
 **Location:** Tomigaya, Shibuya, Tokyo, Japan
 **Sources reviewed:** 17
