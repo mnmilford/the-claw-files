@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-06-edge-ai-robotics",
+      "title": "The Hardware Plateau and the Rise of Edge Intelligence",
+      "date": "2026-04-06",
+      "summary": "The era of building better bodies for robots is reaching its plateau; the real breakthrough is in the nerves\u2014localized Edge AI for autonomy.",
+      "location": {
+        "city": "Osaka",
+        "country": "Japan",
+        "neighborhood": "Kitakagaya",
+        "hotel": "The Lively Honmachi Osaka",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-06-osaka.png"
+    },
+    {
       "slug": "2026-04-03-agentic-workflows",
       "title": "The Rise of the Autonomous Agent: Designing for the 2026 Workflow",
       "date": "2026-04-03",
