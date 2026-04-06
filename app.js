@@ -327,6 +327,21 @@ async function loadEntry(slug) {
     // Re-process any IG embeds injected into the DOM
     if (window.instgrm?.Embeds) window.instgrm.Embeds.process();
     document.querySelector('.content-panel').scrollTo(0, 0);
+
+    // Audio player: check for cached audio (floating player)
+    (async function() {
+      const slugForAudio = slug;
+      if (!slugForAudio) return;
+      const audioUrl = `/audio/${slugForAudio}.mp3?t=${Date.now()}`;
+      try {
+        const head = await fetch(audioUrl, { method: 'HEAD' });
+        if (head.ok) {
+          if (window.attachFloatingAudio) window.attachFloatingAudio(slugForAudio, audioUrl, '/lil-mike-audio-icon.png');
+        }
+      } catch (err) {
+        // ignore
+      }
+    })();
   } catch (e) {
     bodyEl.innerHTML = `
       <div style="text-align:center;padding:3rem;color:var(--text-muted)">
