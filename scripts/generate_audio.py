@@ -116,7 +116,7 @@ def build_reading_text(entry: dict, md_body: str) -> str:
     title = entry.get("title", "")
     summary = entry.get("summary", "")
     # Pull first ~800 characters of body (strip markdown)
-    plain = re.sub(r"[#*`>\-\[\]!()"]", "", md_body)
+    plain = re.sub(r'[#*`>\-\[\]!()"]', "", md_body)
     plain = re.sub(r"\n{2,}", "\n\n", plain).strip()
     preview = plain[:4000]
     reading = f"{date}. {title}. {summary}.\n\n{preview}"
