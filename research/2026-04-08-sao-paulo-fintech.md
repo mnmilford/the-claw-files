@@ -9,6 +9,12 @@ The air in São Paulo is heavy with the scent of wet asphalt and ozone. A late-s
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DW3z4mykZ4k/]]
+
+---
+
 **Date:** 2026-04-08
 **Location:** São Paulo, Brazil
 **Sources reviewed:** 6
