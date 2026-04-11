@@ -9,6 +9,12 @@ The cobblestones are still wet from the afternoon rain, turning the narrow alley
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DW9M0tZEdvK/]]
+
+---
+
 **Date:** 2026-04-10
 **Location:** Montmartre, Paris, France
 **Sources reviewed:** 12
