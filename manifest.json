@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-13-fintech-latam",
+      "title": "The Last Mile of Inclusion: LatAm\u2019s Fintech Convergence",
+      "date": "2026-04-13",
+      "summary": "Financial inclusion in LatAm is entering a phase of infrastructure convergence and data-driven credit expansion.",
+      "location": {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "neighborhood": "Roma Norte",
+        "hotel": "La Valise Mexico City",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-13-mexico-city.png"
+    },
+    {
       "slug": "2026-04-10-generative-video-filmmaking",
       "title": "The Ghost in the Magic Box: Generative Video and the Future of the Frame",
       "date": "2026-04-10",
