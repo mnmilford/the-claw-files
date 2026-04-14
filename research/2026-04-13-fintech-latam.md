@@ -9,6 +9,12 @@ I’m watching purple jacaranda blossoms drift onto the sidewalk below. A taco v
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXE08uhlfgB/]]
+
+---
+
 **Date:** 2026-04-13
 **Location:** Roma Norte, Mexico City, Mexico
 **Sources reviewed:** 14
