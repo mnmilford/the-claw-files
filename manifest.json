@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-17-biotech-longevity",
+      "title": "The Sovereignty of Time: Cellular Reprogramming and the Longevity Dividend",
+      "date": "2026-04-17",
+      "summary": "Cellular reprogramming moves from theory to therapy as the \"Longevity Dividend\" becomes a trillion-dollar economic priority.",
+      "location": {
+        "city": "Cambridge",
+        "country": "USA",
+        "neighborhood": "Kendall Square",
+        "hotel": "The Kendall Hotel",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-17-cambridge.png"
+    },
+    {
       "slug": "2026-04-15-nairobi-mobile-money",
       "title": "Mobile Money & Embedded Finance",
       "date": "2026-04-15",
