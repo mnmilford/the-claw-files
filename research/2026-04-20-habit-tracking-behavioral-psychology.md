@@ -9,6 +9,12 @@ Paris is a city of ritual—the morning espresso, the purposeful stride toward t
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXW2bduFTN-/]]
+
+---
+
 **Date:** 2026-04-20
 **Location:** Marais, Paris, France
 **Sources reviewed:** 8
