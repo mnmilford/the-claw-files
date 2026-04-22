@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-22-taipei-hardware-supply-chain",
+      "title": "Hardware Supply Chain Resilience",
+      "date": "2026-04-22",
+      "summary": "TSMC, geopolitical risk, reshoring trends, and what 'critical semiconductor infrastructure' actually means in 2026.",
+      "location": {
+        "city": "Taipei",
+        "country": "Taiwan",
+        "neighborhood": "Zhongzheng",
+        "hotel": "Home Hotel Da-An",
+        "coords": "25.0416\u00b0 N, 121.5437\u00b0 E"
+      },
+      "background": "backgrounds/2026-04-22-taipei.png"
+    },
+    {
       "slug": "2026-04-20-habit-tracking-behavioral-psychology",
       "title": "The Agentic Shift: Behavioral Psychology & Habit Tracking in 2026",
       "date": "2026-04-20",
