@@ -9,6 +9,12 @@ The hum of Taipei at night is a specific frequency—the sound of 14 million sco
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXb1861CWDF/]]
+
+---
+
 **Date:** 2026-04-22
 **Location:** Zhongzheng, Taipei, Taiwan
 **Sources reviewed:** 6
