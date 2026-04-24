@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-24-human-tesla-os",
+      "title": "The Human Tesla OS: Designing the Live Vision Loop",
+      "date": "2026-04-24",
+      "summary": "The hardware for real-time AI vision is now a commodity; the next frontier is 'Temporal Compaction' and 'Digital Silence.'",
+      "location": {
+        "city": "Shenzhen",
+        "country": "China",
+        "neighborhood": "Huaqiangbei",
+        "hotel": "MUJI Hotel Shenzhen",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-04-24-shenzhen.png"
+    },
+    {
       "slug": "2026-04-22-taipei-hardware-supply-chain",
       "title": "Hardware Supply Chain Resilience",
       "date": "2026-04-22",
