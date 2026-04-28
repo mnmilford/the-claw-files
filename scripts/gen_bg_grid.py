@@ -1,43 +1,45 @@
+import json
 import os
 
-bg_dir = '/root/Projects/deepfield-transmissions/backgrounds'
+manifest_path = '/root/Projects/deepfield-transmissions/manifest.json'
 ig_dir = '/root/Projects/deepfield-transmissions/instagram'
-files = sorted([f for f in os.listdir(bg_dir) if f.endswith('.png')], reverse=True)
+
+with open(manifest_path, 'r') as f:
+    manifest = json.load(f)
+
+entries = manifest.get('entries', [])
+# Sort by date descending
+entries.sort(key=lambda x: x['date'], reverse=True)
 
 html = '<div class="background-grid">\n'
 
-for f in files:
-    # 2026-03-06-amsterdam.png -> Amsterdam (March 6, 2026)
-    parts = f.replace('.png', '').split('-')
-    year, month, day = parts[:3]
-    name_parts = parts[3:]
-    name = ' '.join(name_parts).title()
-    if not name:
-        name = "Transmission"
+for entry in entries:
+    slug = entry['slug']
+    title = entry['title']
+    date_str = entry['date']
+    bg_path = entry['background']
+    loc = entry.get('location', {})
+    loc_str = f"{loc.get('city', '')}, {loc.get('country', '')}"
     
-    date_str = f"{year}-{month}-{day}"
-    
+    # Simple name for the card
+    name = loc.get('city', title)
+
     # Check for mobile version in instagram/
-    # Filename pattern: YYYY-MM-DD-city-1.png or YYYY-MM-DD-city-topic-1.png
-    base_prefix = f"{year}-{month}-{day}-" + '-'.join(name_parts)
-    mobile_file = f"{base_prefix}-1.png"
+    # Pattern: slug-1.png or parts of slug
+    mobile_file = f"{slug}-1.png"
     mobile_path = os.path.join(ig_dir, mobile_file)
+    has_mobile = os.path.exists(mobile_path)
+    mobile_attr = f' data-mobile="instagram/{mobile_file}"' if has_mobile else ""
     
-    mobile_btn = ""
-    if os.path.exists(mobile_path):
-        mobile_btn = f'\n          <a href="instagram/{mobile_file}" download class="download-btn mobile">Download Mobile</a>'
-    
-    html += f'''  <div class="bg-card">
+    html += f'''  <div class="bg-card" data-slug="{slug}" data-title="{title}" data-date="{date_str}" data-location="{loc_str}" data-src="{bg_path}"{mobile_attr}>
     <div class="bg-preview">
-      <img src="backgrounds/{f}" alt="{name}" loading="lazy">
+      <img src="{bg_path}" alt="{title}" loading="lazy">
     </div>
     <div class="bg-info">
       <div class="bg-name">{name}</div>
       <div class="bg-date">{date_str}</div>
       <div class="bg-actions">
-        <div class="btn-group">
-          <a href="backgrounds/{f}" download class="download-btn">Download 4K</a>{mobile_btn}
-        </div>
+        <!-- Download links removed from here as per request -->
       </div>
     </div>
   </div>\n'''
