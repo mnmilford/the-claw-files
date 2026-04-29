@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-04-29-lisbon-digital-nomad-economics",
+      "title": "Digital Nomad Economics & Remote Work Infrastructure",
+      "date": "2026-04-29",
+      "summary": "Portugal's NHR tax regime changes, the digital nomad visa ecosystem, and what happens when a city optimizes for remote workers.",
+      "location": {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "neighborhood": "Alfama",
+        "hotel": "Memmo Alfama",
+        "coords": "38.7110\u00b0 N, 9.1334\u00b0 W"
+      },
+      "background": "backgrounds/2026-04-29-lisbon.png"
+    },
+    {
       "slug": "2026-04-27-agentic-outsourcing-evolution",
       "title": "The Great Services Pivot: From Manpower to Agentic Orchestration",
       "date": "2026-04-27",
