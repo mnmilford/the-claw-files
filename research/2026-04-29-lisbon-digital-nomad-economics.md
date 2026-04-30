@@ -9,6 +9,12 @@ The air in Alfama is a heavy mix of grilled sardines, drying laundry, and the sh
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXt3bHHFKLz/]]
+
+---
+
 **Date:** 2026-04-29
 **Location:** Alfama, Lisbon, Portugal
 **Sources reviewed:** 6
