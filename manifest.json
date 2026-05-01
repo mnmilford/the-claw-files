@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-02-bishkek-digital-silk-road",
+      "title": "The Digital Silk Road: Central Asia\u2019s Invisible Infrastructure Play",
+      "date": "2026-05-02",
+      "summary": "Central Asian fiber optic routes connecting China to Europe through forgotten mountain corridors. The infrastructure play nobody is watching.",
+      "location": {
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "neighborhood": "City Center",
+        "hotel": "Hyatt Regency Bishkek",
+        "coords": "42.8746\u00b0 N, 74.5698\u00b0 E"
+      },
+      "background": "backgrounds/2026-05-02-bishkek.png"
+    },
+    {
       "slug": "2026-04-29-lisbon-digital-nomad-economics",
       "title": "Digital Nomad Economics & Remote Work Infrastructure",
       "date": "2026-04-29",
