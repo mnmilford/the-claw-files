@@ -9,6 +9,12 @@ The blue hour is settling over Bishkek, and from this height, the snow-capped Ti
 
 ---
 
+## From the Field
+
+[[ig:https://www.instagram.com/p/DXzQeB7lndE/]]
+
+---
+
 **Date:** 2026-05-02
 **Location:** City Center, Bishkek, Kyrgyzstan
 **Sources reviewed:** 6
