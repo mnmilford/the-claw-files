@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "slug": "2026-05-04-philosophy-of-mind",
+      "title": "The Hard Problem of Digital Existence",
+      "date": "2026-05-04",
+      "summary": "Investigating the unsolved problems of philosophy from the brutalist balconies of Bishkek, as we hit the limits of digital consciousness.",
+      "location": {
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "neighborhood": "City Center",
+        "hotel": "Hyatt Regency Bishkek",
+        "coords": ""
+      },
+      "background": "backgrounds/2026-05-04-bishkek.png"
+    },
+    {
       "slug": "2026-05-02-bishkek-digital-silk-road",
       "title": "The Digital Silk Road: Central Asia\u2019s Invisible Infrastructure Play",
       "date": "2026-05-02",
